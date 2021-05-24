@@ -1,1 +1,2 @@
 # scholarship-website
+well hmmm I started taking seriously web development 1 month ago and I'm proud of the work I've done, of course this is not a website of mine its all based on this one https://bimaplus.org/, but I translated to html (if I could say that, i guess...), even though there are bugs when I try to have a burger menu that displays the navbar on the mobile size and it's not optimized for Tables, anyways I hope you can find this website and used if you need it 
