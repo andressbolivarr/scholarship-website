@@ -3,5 +3,7 @@ const navbar = document.getElementById('navbar')
 
 	burger.addEventListener('click', () =>{
 		navbar.classList.toggle('see');
-		asd
 	});
+
+let andres = 'succesful'
+
