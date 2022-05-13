@@ -6,4 +6,4 @@ const navbar = document.getElementById('navbar')
 	});
 
 let andres = 'succesful'
-
+	alert(`${andres}` developer')
